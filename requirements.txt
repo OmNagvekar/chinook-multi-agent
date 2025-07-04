@@ -1,0 +1,16 @@
+# Core LangChain & LangGraph libraries
+langgraph
+langchain-core
+
+# LangChain integrations
+langchain-google-genai
+
+# LangGraph Supervisor & Checkpoint
+langgraph-supervisor
+langgraph-checkpoint
+
+# dotenv loader
+python-dotenv
+
+# Type hints
+typing-extensions
