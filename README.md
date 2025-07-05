@@ -10,6 +10,12 @@ A **MusicStoreSupervisor** agent delegates user requests to the right worker age
 
 ---
 
+### Multi-Agent Graph Architecture Image
+
+![alt text](https://github.com/OmNagvekar/chinook-multi-agent/blob/main/Multi_agent_architecture.png?raw=true)
+
+---
+
 ### 📁 Repository Structure
 
 ```
